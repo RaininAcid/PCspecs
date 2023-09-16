@@ -1,3 +1,7 @@
+@font-face {
+	font-family: "Expressway";
+	src: url(expresswayfree.ttf) format("truetype");
+}
 body {
   background-color: black;
   padding: 130px;
